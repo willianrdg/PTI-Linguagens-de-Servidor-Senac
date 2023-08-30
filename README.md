@@ -2,7 +2,7 @@
 
 **Cálculo IMC em PHP**
 
-A função deverá receber um valor de IMC (numérico com 2 casas decimais) e classificar de acordo com as faixas abaixo:
+A função deverá receber um valor (numérico) de IMC e classificar de acordo com as faixas abaixo:
 
 | Faixa  | Classificação |
 | ------ | ------------- |
