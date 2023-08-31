@@ -12,3 +12,5 @@ A função deverá receber um valor (numérico) de IMC e classificar de acordo c
 | De 30.0 a 34.9 | Obesidade Grau I |
 | De 35.0 a 39.9 | Obesidade Grau II |
 | Acima de 39.9 | Obesidade Grau II |
+
+*Obs.: Uma vez que o enunciado citava explicitamente a utilização do comando echo para impressão da mensagem e também que o valor de IMC deveria ter 2 casas decimais, utilizei echo + sprintf para exibição do texto com o valor do IMC formatado sempre com 2 casas decimais.*
